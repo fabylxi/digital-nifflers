@@ -1,1 +1,6 @@
 # digital-nifflers
+
+Das ist eine Testdatei.
+Die Testdatei ist zum Zwecke eines Versuchs entstanden.
+Eigentlich sollte ich den Namen der Datei erklären.
+Aber ich habe keine Zeit.
